@@ -1,0 +1,41 @@
+header{
+    padding: 10px 10px 10px 10px;
+    border: 2px solid red;
+    background-color: rgba(230, 101, 101, 0.644);
+}
+.gen{
+    padding: 10px 10px 10px 10px;
+    
+}
+.rd{
+    font-style: oblique;
+    background-image: url(https://images8.alphacoders.com/958/958091.jpg) ;
+    background-repeat: no-repeat;
+    opacity: 2;
+    background-size: 750px 400px;
+    float: right;
+    width: 50%;
+    
+    
+}
+.re{
+    color: rgba(255, 0, 0, 0.719);
+}
+.re2{
+    color: rgb(243, 240, 255)
+}
+img{
+    width: 500px;
+    
+}
+.its{
+    font-style: oblique;
+    background-image: url(https://media.contentapi.ea.com/content/dam/eacom/it-takes-two/images/2020/06/feature-image-itt.png.adapt.crop191x100.1200w.png) ;
+    background-size: 640px;
+    background-repeat: no-repeat;
+    width: 46%;
+    float: left;
+}
+.t{
+    color: rgb(228, 221, 154);
+}
