@@ -2,11 +2,14 @@ header{
     padding: 10px 10px 10px 10px;
     border: 2px solid red;
     background-color: rgba(230, 101, 101, 0.644);
-    background-image: url(https://static.abc.es/media/tecnologia/2020/11/05/game-montaje1-k6NB--1248x698@abc.jpg);
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/328/70/538/retro-games-space-invaders-wallpaper-preview.jpg);
     background-repeat: no-repeat;
     background-size: 100% ;
-    background-position-y: -80px;
+    background-position-y: center;
 
+}
+h1{
+    color: beige;
 }
 .gen{
     padding: 10px 10px 10px 10px;
