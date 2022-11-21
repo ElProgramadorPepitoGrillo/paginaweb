@@ -1,0 +1,38 @@
+header{
+    border: 2px solid rgb(16, 160, 59);
+    background-color: rgb(13, 156, 20);
+    padding: 10px 10px 10px 10px ;
+    background-image: url(https://thumbs.dreamstime.com/b/una-playa-tropical-en-el-mar-caribe-turquesa-fondo-largo-panor%C3%A1mico-hermoso-lugar-para-vacaciones-de-verano-a%C3%A9reo-vista-a%C3%A9rea-211234552.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-y: -140px;
+}
+body{
+    padding: 10px 10px 10px 10px ;
+}
+
+.gen{
+    border: 1px solid black;
+    background: gray;
+}
+.pa1{
+  width: 50%;
+  height: 500px;
+  border: 1px solid beige;
+  float: right;
+  padding: 10px 10px 10px 10px;
+  font-style: oblique;
+}
+.pa2{
+    width: 40%;
+    height: 500px;
+    border: 1px solid beige;
+    padding: 10px 10px 10px 10px;
+    font-style: oblique;
+  }
+
+  img{
+    width: 350px;
+    
+    float: right;
+  }

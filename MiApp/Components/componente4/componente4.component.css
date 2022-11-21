@@ -2,6 +2,11 @@ header{
     padding: 10px 10px 10px 10px;
     border: 2px solid red;
     background-color: rgba(230, 101, 101, 0.644);
+    background-image: url(https://static.abc.es/media/tecnologia/2020/11/05/game-montaje1-k6NB--1248x698@abc.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    background-position-y: -80px;
+
 }
 .gen{
     padding: 10px 10px 10px 10px;
@@ -15,6 +20,7 @@ header{
     background-size: 750px 400px;
     float: right;
     width: 50%;
+    padding: 10px 10px 10px 10px ;
     
     
 }
@@ -35,6 +41,7 @@ img{
     background-repeat: no-repeat;
     width: 46%;
     float: left;
+    padding: 10px 10px 10px 10px ;
 }
 .t{
     color: rgb(228, 221, 154);

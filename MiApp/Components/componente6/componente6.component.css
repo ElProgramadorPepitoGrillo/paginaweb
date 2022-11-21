@@ -1,0 +1,32 @@
+header{
+    border: 2px solid rgb(19, 18, 18);
+    background-color: rgb(240, 119, 119);
+    padding: 10px 10px 10px 10px ;
+    background-image: url(https://img.europapress.es/fotoweb/fotonoticia_20201230095715_420.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-y: -150px;
+}
+h2{
+    color: red;
+
+}
+.jojo{
+    border: 2px solid black;
+    width: 47%;
+    height: 430px;
+    padding: 10px 10px 10px 10px ;
+    float: left;
+    background-color: rgba(156, 90, 218, 0.541);
+}
+.boy{
+    background-color: gray;
+    border: 2px solid black;
+    width: 49%;
+    height: 430px;
+    padding: 10px 10px 10px 10px ;
+    float: right;
+}
+img{
+    width: 350px;
+}
